@@ -8,7 +8,7 @@
   <packaging>jar</packaging>
 
   <name>song-demo</name>
-  <url>http://maven.apache.org</url>
+  <url>http://maven.apache.org online 222222</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
