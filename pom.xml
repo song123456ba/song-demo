@@ -8,7 +8,11 @@
   <packaging>jar</packaging>
 
   <name>song-demo</name>
+<<<<<<< HEAD
   <url>http://maven.apache.org offline aaaa222</url>
+=======
+  <url>http://maven.apache.org offline aaaa111</url>
+>>>>>>> branch 'main' of https://github.com/song123456ba/song-demo.git
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
